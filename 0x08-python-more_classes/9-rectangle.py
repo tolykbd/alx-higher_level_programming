@@ -106,8 +106,3 @@ class Rectangle:
     def square(cls, size=0):
         """Creates a new `Rectangle` instance"""
         return cls(size, size)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Priv
